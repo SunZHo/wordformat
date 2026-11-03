@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 生成的成品文档不入库
+*.docx
+*.pdf
+
+.DS_Store
+Thumbs.db
